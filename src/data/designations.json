@@ -1,0 +1,16 @@
+[
+  {
+    "id": "67accde1d490100d884cd2cf",
+    "name": "Team Dean",
+    "description": "Head of Dept",
+    "organisation": "67ac1777f805b75c84080fbe",
+    "permissions": ["manage-user"]
+  },
+  {
+    "id": "67cec5acfac11500763df815",
+    "name": "Developer",
+    "description": "UI/UX Developer",
+    "organisation": "67ac1777f805b75c84080fbe",
+    "permissions": []
+  }
+]
